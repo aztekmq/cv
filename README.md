@@ -275,14 +275,6 @@ United States Army
 01/1991 - 01/1997
 Awarded Army Commendation Medal (2) World Military Cross Country / Track & Field Team Member (5)
 
-Education
-======
-Computer Information Systems
-St. Leo University
-
-Computer Programming
-Greenville Technical College
-
 Certification
 ======
 IBM MQ Certified Administrator
